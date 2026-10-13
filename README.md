@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/USERNAAM">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welkom+op+mijn+profiel+%F0%9F%91%8B;Ik+leer+programmeren+en+SQL;Ik+bouw+kleine+projecten;Ook+goed+in+talen%3A+NL%2C+FR%2C+DE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welkom+op+mijn+profiel+%F0%9F%91%8Danitchio;Ik+leer+programmeren+en+SQL;Ik+bouw+kleine+projecten;Ook+goed+in+talen%3A+NL%2C+FR%2C+DE" alt="Typing SVG" />
   </a>
 </p>
 
