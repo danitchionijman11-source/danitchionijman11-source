@@ -1,19 +1,19 @@
-<!-- Vervang overal USERNAAM door je GitHub-gebruikersnaam -->
+<!-- Alles staat al op danitchio ingesteld -->
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hoi,%20ik%20ben%20B!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Beginnend%20developer%20%7C%20Altijd%20aan%20het%20leren&descAlignY=58&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hoi,%20ik%20ben%20danitchio!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Beginnend%20developer%20%7C%20Altijd%20aan%20het%20leren&descAlignY=58&descSize=16" alt="header"/>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/USERNAAM">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welkom+op+mijn+profiel+%F0%9F%91%8Danitchio;Ik+leer+programmeren+en+SQL;Ik+bouw+kleine+projecten;Ook+goed+in+talen%3A+NL%2C+FR%2C+DE" alt="Typing SVG" />
+  <a href="https://github.com/danitchio">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welkom+op+mijn+profiel+%F0%9F%91%8B;Ik+leer+programmeren+en+SQL;Ik+bouw+kleine+projecten;Ook+goed+in+talen%3A+NL%2C+FR%2C+DE" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/USERNAAM?style=for-the-badge&logo=github&color=6C63FF" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/USERNAAM?style=for-the-badge&logo=github&color=FFB400" alt="stars"/>
-  <img src="https://komarev.com/ghpvc/?username=USERNAAM&style=for-the-badge&color=00C896&label=PROFIELBEZOEKERS" alt="views"/>
+  <img src="https://img.shields.io/github/followers/danitchio?style=for-the-badge&logo=github&color=6C63FF" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/danitchio?style=for-the-badge&logo=github&color=FFB400" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=danitchio&style=for-the-badge&color=00C896&label=PROFIELBEZOEKERS" alt="views"/>
 </p>
 
 ---
@@ -46,12 +46,12 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAAM&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAAM&layout=compact&theme=tokyonight&hide_border=true" alt="top talen"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danitchio&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danitchio&layout=compact&theme=tokyonight&hide_border=true" alt="top talen"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAAM&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danitchio&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 ---
@@ -60,9 +60,9 @@
 
 | Project | Beschrijving | Techniek |
 |---------|--------------|----------|
-| [Project 1](https://github.com/USERNAAM/project-1) | Korte uitleg over wat het doet | `SQL` `PostgreSQL` |
-| [Project 2](https://github.com/USERNAAM/project-2) | Korte uitleg over wat het doet | `Python` |
-| [Project 3](https://github.com/USERNAAM/project-3) | Korte uitleg over wat het doet | `HTML` `CSS` |
+| [Project 1](https://github.com/danitchio/project-1) | Korte uitleg over wat het doet | `SQL` `PostgreSQL` |
+| [Project 2](https://github.com/danitchio/project-2) | Korte uitleg over wat het doet | `Python` |
+| [Project 3](https://github.com/danitchio/project-3) | Korte uitleg over wat het doet | `HTML` `CSS` |
 
 ---
 
@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="mailto:jouw@email.be"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a>
-  <a href="https://www.linkedin.com/in/USERNAAM"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/danitchio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
 <p align="center">
